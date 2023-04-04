@@ -9,5 +9,5 @@
 - The lecture notes (1 set) in genetics by [Dr. Andrew Paterson](https://www.sickkids.ca/en/staff/p/andrew-paterson/)
 - The lecture notes (5 subsets) in statistics by [Dr. Lei Sun](https://utstat.toronto.edu/sun/).
 
-### The post-workshop survey shows hat "Due to the high school background of the students, and the workshop’s limited time frame, some found the pace of the lectures to be overwhelming, particularly the statistical section of the lectures". A readme-stat-background file has since been added to explain the difficult levels of the five lecture slide decks.
+### The post-workshop survey showed hat "Due to the high school background of the students, and the workshop’s limited time frame, some found the pace of the lectures to be overwhelming, particularly the statistical section of the lectures". A readme-stat-background file has since been added to explain the difficult levels of the five lecture slide decks.
   
